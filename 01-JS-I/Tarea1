@@ -1,9 +1,0 @@
-* Variables : Son espacios de memoria reservados para un dato
-* Strings: Son tipos de datos de texto o cadena de caracteres, siempre van entre comillas
-* Booleans: Son tipos de datos que vienen de la logica booleana, con dos unicos posibles resultados, TRUE y FALSE
-* Undefined: es definido por JS y significa que no existe
-* Null: Es definido por el desarrollador y significa vacio
-* Operadores: matematicos: + suma , - resta , * multiplicacion, / division.   son funciones internas de JS
-de comparacion: <, >, <=, >=, ===, ==, !== evaluan dos elementos y devuelven verdadero o falso.
-* `==` vs. `===`
-
